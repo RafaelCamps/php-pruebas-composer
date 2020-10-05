@@ -1,0 +1,22 @@
+{
+    "name": "rafa/php-pruebas-composer",
+    "description": "Proyecto para hacer pruebas con composer",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "twitter/bootstrap": "^4.5",
+        "fortawesome/font-awesome": "^5.15",
+        "varunsridharan/sweetalert2-php": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafael Camps",
+            "email": "rcamps@cifpfbmoll.eu"
+        }
+    ],
+    "require-dev": {
+        "kint-php/kint": "^3.3",
+        "phpunit/phpunit": "^9.4"
+    }
+}
